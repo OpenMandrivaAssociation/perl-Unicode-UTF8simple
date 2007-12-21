@@ -18,6 +18,7 @@ Buildrequires:	perl-Unicode-Map
 Buildrequires:	perl-Unicode-Map8
 Buildrequires:	perl-Jcode
 Buildarch:	noarch
+BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
 This utf-8 converter is written in plain perl and works with hopefully
