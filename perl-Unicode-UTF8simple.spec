@@ -1,7 +1,7 @@
 %define module	Unicode-UTF8simple
 %define name	perl-%{module}
 %define version 1.06
-%define release %mkrel 3
+%define release %mkrel 4
 
 Name:		%{name}
 Version:	%{version}
