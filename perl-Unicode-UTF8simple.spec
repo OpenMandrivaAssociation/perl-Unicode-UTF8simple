@@ -8,7 +8,7 @@ Release:	4
 Summary:	Conversions to/from UTF8 from/to charactersets
 License:	GPL+ or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/dist/%{upstream_name}/
+Url:		https://search.cpan.org/dist/%{upstream_name}/
 Source0:	http://search.cpan.org/CPAN/authors/id/G/GU/GUS/%{upstream_name}-%{upstream_version}.tar.bz2
 
 BuildRequires:	perl-devel
